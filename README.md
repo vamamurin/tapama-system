@@ -1,5 +1,11 @@
 # Multi-layered SOC & Virtualization Architecture
 
+## 🚧 Project Status
+![Under Construction](https://img.shields.io/badge/status-under%20construction-yellow?style=for-the-badge)
+
+> ⚠️ This project is currently in progress. Documentation may be incomplete or subject to change.
+
+
 ## Tổng quan
 Dự án mô phỏng một môi trường SOC (Security Operations Center) quy mô nhỏ sử dụng ảo hóa và phân vùng mạng. Mục tiêu là minh họa cách giám sát và phát hiện tấn công trên nhiều lớp trong một hệ thống thực tế.
 
