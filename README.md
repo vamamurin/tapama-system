@@ -39,7 +39,7 @@ Dự án mô phỏng một môi trường SOC (Security Operations Center) quy m
 - Hiểu cách hoạt động của hệ thống giám sát an ninh
 - 
 ## Tài liệu
-Xem chi tiết tại: [https://github.com/vamamurin/tapama-system/blob/main/TTDACN.pdf]
+Xem chi tiết tại: [https://github.com/vamamurin/tapama-system/blob/main/Xay_dung_he_thong_SOC.pdf]
 ## 👥 Team Members
 - Nguyen Duc Manh
 - Luong Minh Tan
